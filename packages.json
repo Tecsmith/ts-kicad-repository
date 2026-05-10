@@ -1,0 +1,34 @@
+{
+    "packages": [
+        {
+            "$schema": "https://go.kicad.org/pcm/schemas/v1",
+            "name": "ts-kicad-lib",
+            "description": "KiCAD symbols & footprints",
+            "description_full": "KiCAD symbols & footprints as used by Tecsmith projects.",
+            "identifier": "com.github.tecsmith.ts-kicad-lib",
+            "type": "library",
+            "author": {},
+            "maintainer": {},
+            "license": "MIT",
+            "resources": {
+                "homepage": "https://github.com/Tecsmith/ts-kicad-lib"
+            },
+            "versions": []
+        },
+        {
+            "$schema": "https://go.kicad.org/pcm/schemas/v1",
+            "name": "ts-kicad-plugins",
+            "description": "KiCAD plugins",
+            "description_full": "KiCAD plugins as used by Tecsmith projects.",
+            "identifier": "com.github.tecsmith.ts-kicad-plugins",
+            "type": "plugin",
+            "author": {},
+            "maintainer": {},
+            "license": "MIT",
+            "resources": {
+                "homepage": "https://github.com/Tecsmith/ts-kicad-plugins"
+            },
+            "versions": []
+        }
+    ]
+}

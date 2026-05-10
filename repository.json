@@ -1,0 +1,14 @@
+{
+    "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+    "maintainer": {
+        "name": "Tecsmith",
+        "contact": {}
+    },
+    "name": "Tecsmith KiCad repository",
+    "packages": {
+        "sha256": "ee2f95b25ba36d7201986d36c93717be356ad74c32d5cb6b4512db7035ca2833",
+        "update_time_utc": "2026-05-10 10:34:26",
+        "update_timestamp": 1778409266,
+        "url": "https://github.com/Tecsmith/ts-kicad-repository/raw/main/packages.json"
+    }
+}
