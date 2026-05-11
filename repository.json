@@ -2,7 +2,9 @@
     "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
     "maintainer": {
         "name": "Tecsmith",
-        "contact": {}
+        "contact": {
+            "url": "https://github.com/Tecsmith"
+        }
     },
     "name": "Tecsmith KiCAD repository",
     "packages": {
