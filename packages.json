@@ -8,10 +8,16 @@
             "identifier": "com.github.tecsmith.ts-kicad-lib",
             "type": "library",
             "author": {
-                "name": "Tecsmith"
+                "name": "Tecsmith",
+                "contact": {
+                    "url": "https://github.com/Tecsmith"
+                }
             },
             "maintainer": {
-                "name": "Tecsmith"
+                "name": "Tecsmith",
+                "contact": {
+                    "url": "https://github.com/Tecsmith"
+                }
             },
             "license": "MIT",
             "resources": {
@@ -37,10 +43,16 @@
             "identifier": "com.github.tecsmith.ts-kicad-plugins",
             "type": "plugin",
             "author": {
-                "name": "Tecsmith"
+                "name": "Tecsmith",
+                "contact": {
+                    "url": "https://github.com/Tecsmith"
+                }
             },
             "maintainer": {
-                "name": "Tecsmith"
+                "name": "Tecsmith",
+                "contact": {
+                    "url": "https://github.com/Tecsmith"
+                }
             },
             "license": "MIT",
             "resources": {
