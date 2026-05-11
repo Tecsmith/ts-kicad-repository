@@ -26,7 +26,7 @@
             "versions": [
                 {
                     "version": "v2026.05.11",
-                    "status": "release",
+                    "status": "stable",
                     "kicad_version": "10.0",
                     "download_sha256": "08ef3ee9a78a395dc28d1c2c5446e58b8924ee8e500c4d20529506648235ccd2",
                     "download_size": 4148248,
@@ -61,7 +61,7 @@
             "versions": [
                 {
                     "version": "v2026.05.11",
-                    "status": "release",
+                    "status": "stable",
                     "kicad_version": "10.0",
                     "download_sha256": "6b5a857275ff884f9a24cac5cf6069173cf83d93ea3e56cd65bc6ab9fb6d7ebe",
                     "download_size": 21047,
