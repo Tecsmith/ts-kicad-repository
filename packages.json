@@ -28,7 +28,7 @@
                     "version": "v2026.05.11",
                     "status": "stable",
                     "kicad_version": "10.0",
-                    "download_sha256": "557db6051739fbfa10e3973b022544d8b28996c2a0f3ea9b09b4506d1dca2cc8",
+                    "download_sha256": "91c9a69e22f05acf19a8ccc23feb887895204a8866b08d14799fe46ae2bb08c7",
                     "download_size": 4148241,
                     "download_url": "https://github.com/tecsmith/ts-kicad-lib/releases/download/v2026.05.11/ts-kicad-lib-v2026.05.11.zip",
                     "install_size": 22060918
