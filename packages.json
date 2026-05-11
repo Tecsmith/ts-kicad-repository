@@ -24,6 +24,15 @@
                 "homepage": "https://github.com/Tecsmith/ts-kicad-lib"
             },
             "versions": [
+                {
+                    "version": "2026.05.11",
+                    "status": "stable",
+                    "kicad_version": "10.0",
+                    "download_sha256": "9037918d93a5756b80462e3f23c8e10d3a1b0194fce0b2cd096cedaa96595af9",
+                    "download_size": 4148239,
+                    "download_url": "https://github.com/tecsmith/ts-kicad-lib/releases/download/2026.05.11/ts-kicad-lib-2026.05.11.zip",
+                    "install_size": 22060916
+                }
             ]
         },
         {
@@ -49,8 +58,7 @@
             "resources": {
                 "homepage": "https://github.com/Tecsmith/ts-kicad-plugins"
             },
-            "versions": [
-            ]
+            "versions": []
         }
     ]
 }
