@@ -11,6 +11,6 @@
         "sha256": "1300292d5240b5e55b3c3938b1ad448fc7808e8c6f60f1e29c54f5bfee4e52a3",
         "update_time_utc": "2026-05-11 07:46:27",
         "update_timestamp": 1778485587,
-        "url": "https://github.com/Tecsmith/ts-kicad-repository/raw/main/packages.json"
+        "url": "https://raw.githubusercontent.com/Tecsmith/ts-kicad-repository/main/packages.json"
     }
 }

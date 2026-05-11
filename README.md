@@ -15,4 +15,4 @@ Click on the "Manage..." button and then "+" *(Add)*.  Use the following:
 | | |
 | --- | --- |
 | Name | Tecsmith repository |
-| URL | `https://github.com/Tecsmith/ts-kicad-repository/raw/main/repository.json` |
+| URL | `https://raw.githubusercontent.com/Tecsmith/ts-kicad-repository/main/repository.json` |
