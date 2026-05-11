@@ -7,8 +7,12 @@
             "description_full": "KiCAD symbols & footprints as used by Tecsmith projects.",
             "identifier": "com.github.tecsmith.ts-kicad-lib",
             "type": "library",
-            "author": {},
-            "maintainer": {},
+            "author": {
+                "name": "Tecsmith"
+            },
+            "maintainer": {
+                "name": "Tecsmith"
+            },
             "license": "MIT",
             "resources": {
                 "homepage": "https://github.com/Tecsmith/ts-kicad-lib"
@@ -32,8 +36,12 @@
             "description_full": "KiCAD plugins as used by Tecsmith projects.",
             "identifier": "com.github.tecsmith.ts-kicad-plugins",
             "type": "plugin",
-            "author": {},
-            "maintainer": {},
+            "author": {
+                "name": "Tecsmith"
+            },
+            "maintainer": {
+                "name": "Tecsmith"
+            },
             "license": "MIT",
             "resources": {
                 "homepage": "https://github.com/Tecsmith/ts-kicad-plugins"
