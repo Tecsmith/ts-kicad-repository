@@ -13,7 +13,17 @@
             "resources": {
                 "homepage": "https://github.com/Tecsmith/ts-kicad-lib"
             },
-            "versions": []
+            "versions": [
+                {
+                    "version": "v2026.05.11",
+                    "status": "testing",
+                    "kicad_version": "10.0",
+                    "download_sha256": "ced878a43bd5b8ffcb5c8402b1a892955a4eff0099b67ac65e23cdd63a25dd95",
+                    "download_size": 4148220,
+                    "download_url": "https://github.com/tecsmith/ts-kicad-lib/releases/download/v2026.05.11/kicad-pcm-v2026.05.11.zip",
+                    "install_size": 22060697
+                }
+            ]
         },
         {
             "$schema": "https://go.kicad.org/pcm/schemas/v1",
