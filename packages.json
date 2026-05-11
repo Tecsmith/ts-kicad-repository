@@ -76,6 +76,15 @@
                     "download_size": 21042,
                     "download_url": "https://github.com/tecsmith/ts-kicad-plugins/releases/download/v2026.05.11/ts-kicad-plugins-v2026.05.11.zip",
                     "install_size": 38505
+                },
+                {
+                    "version": "2026.05.11",
+                    "status": "stable",
+                    "kicad_version": "10.0",
+                    "download_sha256": "53ff34fcd7fe7fda529745cebb9a8d54f16110eddae1ec7e5af2ae8ec45a2a39",
+                    "download_size": 21040,
+                    "download_url": "https://github.com/tecsmith/ts-kicad-plugins/releases/download/2026.05.11/ts-kicad-plugins-2026.05.11.zip",
+                    "install_size": 38503
                 }
             ]
         }
