@@ -8,9 +8,9 @@
     },
     "name": "Tecsmith KiCAD repository",
     "packages": {
-        "sha256": "e60e7b7f1ea70e08c8c983d696fbcf1bac56def0f0c63d37eb722fbccd39b6af",
-        "update_time_utc": "2026-05-11 06:20:00",
-        "update_timestamp": 1778480400,
+        "sha256": "a8bd512fb6a452290031661e3cb496dbe187c513b1741cd52df33361b9d21a94",
+        "update_time_utc": "2026-05-11 06:30:03",
+        "update_timestamp": 1778481003,
         "url": "https://github.com/Tecsmith/ts-kicad-repository/raw/main/packages.json"
     }
 }
