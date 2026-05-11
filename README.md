@@ -1,6 +1,6 @@
 # ts-kicad-repository
 
-This repository contains the package index for Tecsmith KiCad libraries and plugins.
+This repository contains the package index for Tecsmith KiCAD libraries and plugins.
 
 Currently included:
 

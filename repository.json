@@ -4,7 +4,7 @@
         "name": "Tecsmith",
         "contact": {}
     },
-    "name": "Tecsmith KiCad repository",
+    "name": "Tecsmith KiCAD repository",
     "packages": {
         "sha256": "6ca77479a2513a689d25acbd1cab3cc6a3d4de45c60a5ff8433608a5a8e85afb",
         "update_time_utc": "2026-05-11 04:33:28",

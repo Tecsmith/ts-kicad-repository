@@ -19,7 +19,7 @@ on:
         description: "Size of the extracted zip file"
         required: true
       KICAD_VERSION:
-        description: "KiCad version the package is made for"
+        description: "KiCAD version the package is made for"
         required: true
       PROJECT_NAME:
         description: "Which project the build is a part of"
