@@ -43,9 +43,9 @@
                     "version": "v2026.05.11",
                     "status": "testing",
                     "kicad_version": "10.0",
-                    "download_sha256": "3396db119080ab3c29b32edc8b54efde2840479ab759405549fa1ef79b61e509",
+                    "download_sha256": "9076abfcb1d002404d9e527f2e52f90686a09bf0e8c36e091cd5fcf2af016c89",
                     "download_size": 21021,
-                    "download_url": "https://github.com/tecsmith/ts-kicad-plugins/releases/download/v2026.05.11/kicad-pcm-v2026.05.11.zip",
+                    "download_url": "https://github.com/tecsmith/ts-kicad-plugins/releases/download/v2026.05.11/ts-kicad-plugins-v2026.05.11.zip",
                     "install_size": 38284
                 }
             ]
