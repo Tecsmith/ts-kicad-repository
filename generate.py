@@ -1,8 +1,7 @@
 import hashlib
 import json
 import sys
-import time
-from datetime import datetime as dt
+from datetime import datetime as dt, timezone
 
 VERSION = sys.argv[1]
 DOWNLOAD_SHA256 = sys.argv[2]
@@ -50,10 +49,10 @@ with open("packages.json", "rb") as f:
 
 with open("repository.json", "r+", encoding="utf-8") as f:
     data = json.load(f)
-    date = dt.utcnow()
+    date = dt.now(timezone.utc)
     data["packages"]["sha256"] = packages_sha256
     data["packages"]["update_time_utc"] = date.strftime("%Y-%m-%d %H:%M:%S")
-    data["packages"]["update_timestamp"] = int(time.mktime(date.timetuple()))
+    data["packages"]["update_timestamp"] = int(date.timestamp())
     f.seek(0)
     json.dump(data, f, indent=4)
     f.truncate()
